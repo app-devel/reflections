@@ -13,3 +13,6 @@ What are some situations when branches would be helpful in keeping your history 
  - Big changes (Architecture)
 
  - It would help bugfixing of the main branch without having to deal with inconsistencies. If the new feature has to be resetted, a branch is easier to deal with than reverting the changes in the master.
+ 
+How do the diagrams help you visualize the branch structure?
+ - It shows you the reachability of each commit
