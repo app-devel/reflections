@@ -20,3 +20,6 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
  - The sum of the changes made in both of the branches on a single branch. 
  - Because it diverges from the master in a certain point and then it goes back to it (when merged).
+ 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ - Automatization helps to reduce human error in standard merges. Whereas manually commits are necessary for edge cases. 
