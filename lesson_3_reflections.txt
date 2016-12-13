@@ -18,3 +18,6 @@ What is the benefit of having a copy of the last known state of the remote store
  
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  - With offline solutions, as for example sending source code via email or with usb sticks. This would increase the probability of errors greatly and would make the work way harder.  
+ 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ - Creating a whole new feature, big bugfix. Working on branches keeps the master clean and reduces the changes of it to be broken. This causes overhead, though, throught the usage of branches for possible small things.
